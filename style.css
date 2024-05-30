@@ -1,0 +1,77 @@
+h1 {
+    background-color: red;
+    font-family:cursive;
+    color: black;
+}
+
+
+html {
+    background-image: linear-gradient(to right, lightslategray, grey, lightslategray);
+}
+
+body {
+    background-image: linear-gradient(to right, lightslategray, grey, lightslategray);
+}
+
+img {
+    width: 1000px;
+    height: 700px;
+}
+
+.stas {
+    float: right;
+    opacity: 0.25;
+}
+
+.stas:hover {
+    opacity: 1;
+}
+
+p {
+    background-color: black;
+    width: 700px;
+    font-size: 40px;
+    color: white;
+    font-family:cursive;
+}
+
+.stas1 {
+    opacity: 0.25;
+}
+
+.stas1:hover {
+    opacity: 1;
+}
+
+.rust img {
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+    float: right;
+}
+
+a {
+    padding: 20px;
+    border-radius: 30px;
+    border: 3px solid white;
+    text-decoration: none;
+    font-size: 40px;
+    color: white;
+    font-family:cursive;
+}
+
+.stas3 {
+    width: 700px;
+}
+
+nav {
+    justify-content: center;
+    display: flex;
+    background-color: black;
+}
+
+.stas5 {
+    font-size: 40px;
+    color: white;
+    font-family:cursive;
+}
